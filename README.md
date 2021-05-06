@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @AnnLemottien
-- 👀 I’m interested in Front-end wb development.
+- 👀 I’m interested in Front-end web development.
 - 🌱 I’m currently learning JavaScript, CSS, HTML.
 - 💞️ I’m looking to collaborate on projects including JavaScript, CSS, HTML. 
